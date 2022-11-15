@@ -10,6 +10,7 @@ namespace CollegeApp.Controllers
     public class NoteController : Controller
     {
         private readonly INoteRepository _noteRepo;
+        int a;
         public NoteController(INoteRepository noteRepo)
         {
             _noteRepo = noteRepo;
