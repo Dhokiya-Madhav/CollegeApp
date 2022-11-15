@@ -1,0 +1,52 @@
+is_global = true
+build_property.TargetFramework = netcoreapp6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CollegeApp
+build_property.RootNamespace = CollegeApp
+build_property.ProjectDir = C:\Users\Madhav Dhokiya\Downloads\CollegeApp\CollegeApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Madhav Dhokiya\Downloads\CollegeApp\CollegeApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Madhav Dhokiya/Downloads/CollegeApp/CollegeApp/Views/Note/DeleteNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxEZWxldGVOb3RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Madhav Dhokiya/Downloads/CollegeApp/CollegeApp/Views/Note/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Madhav Dhokiya/Downloads/CollegeApp/CollegeApp/Views/Note/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Madhav Dhokiya/Downloads/CollegeApp/CollegeApp/Views/Note/NewNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxOZXdOb3RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Madhav Dhokiya/Downloads/CollegeApp/CollegeApp/Views/Note/UpdateNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxVcGRhdGVOb3RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Madhav Dhokiya/Downloads/CollegeApp/CollegeApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Madhav Dhokiya/Downloads/CollegeApp/CollegeApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Madhav Dhokiya/Downloads/CollegeApp/CollegeApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Madhav Dhokiya/Downloads/CollegeApp/CollegeApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
